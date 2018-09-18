@@ -1,0 +1,216 @@
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "0CC-Sa-GRC"; */
+"0CC-Sa-GRC.text" = "Fri";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1tl-zd-0z5"; */
+"1tl-zd-0z5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "編輯"; ObjectID = "1xW-97-qaI"; */
+"1xW-97-qaI.normalTitle" = "編輯";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "22Q-jl-l3X"; */
+"22Q-jl-l3X.text" = "0%";
+
+/* Class = "UIButton"; normalTitle = "餅圖"; ObjectID = "3QW-jA-qh4"; */
+"3QW-jA-qh4.normalTitle" = "餅圖";
+
+/* Class = "UILabel"; text = "心情"; ObjectID = "3XX-4h-o1j"; */
+"3XX-4h-o1j.text" = "心情";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "4aB-ub-kcb"; */
+"4aB-ub-kcb.text" = "Wed";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "4qd-cM-KLJ"; */
+"4qd-cM-KLJ.text" = "0%";
+
+/* Class = "UIButton"; normalTitle = "存檔"; ObjectID = "5hb-0s-TK3"; */
+"5hb-0s-TK3.normalTitle" = "存檔";
+
+/* Class = "UILabel"; text = "其他"; ObjectID = "6W5-wA-LP0"; */
+"6W5-wA-LP0.text" = "其他";
+
+/* Class = "UIButton"; normalTitle = "＜"; ObjectID = "6lT-0W-fc6"; */
+"6lT-0W-fc6.normalTitle" = "＜";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6xG-eO-Aie"; */
+"6xG-eO-Aie.text" = "Label";
+
+/* Class = "UILabel"; text = "心情"; ObjectID = "7Ha-c7-1Dt"; */
+"7Ha-c7-1Dt.text" = "心情";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "7LS-wg-haW"; */
+"7LS-wg-haW.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "用途:"; ObjectID = "9Np-Xg-G85"; */
+"9Np-Xg-G85.text" = "用途:";
+
+/* Class = "UIButton"; normalTitle = "日記"; ObjectID = "9XQ-ck-wC5"; */
+"9XQ-ck-wC5.normalTitle" = "日記";
+
+/* Class = "UILabel"; text = "2018/6/27"; ObjectID = "Acs-Zs-qHL"; */
+"Acs-Zs-qHL.text" = "2018/6/27";
+
+/* Class = "UILabel"; text = "2018/06/27"; ObjectID = "DgU-9p-Esu"; */
+"DgU-9p-Esu.text" = "2018/06/27";
+
+/* Class = "UILabel"; text = "日常用品"; ObjectID = "EDy-s3-YDI"; */
+"EDy-s3-YDI.text" = "日常用品";
+
+/* Class = "UILabel"; text = "金額:"; ObjectID = "EWd-iC-a2O"; */
+"EWd-iC-a2O.text" = "金額:";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "EbT-LH-6Q5"; */
+"EbT-LH-6Q5.text" = "0%";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "G8L-Wo-qQ6"; */
+"G8L-Wo-qQ6.text" = "0%";
+
+/* Class = "UILabel"; text = "總額: 0"; ObjectID = "HDY-7g-AGm"; */
+"HDY-7g-AGm.text" = "總額: 0";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "HJu-RL-lZf"; */
+"HJu-RL-lZf.text" = "Thu";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "HfH-Ca-fAG"; */
+"HfH-Ca-fAG.text" = "0%";
+
+/* Class = "UILabel"; text = "Sat"; ObjectID = "Hop-wn-LVc"; */
+"Hop-wn-LVc.text" = "Sat";
+
+/* Class = "UILabel"; text = "Daily necessities"; ObjectID = "IS5-Am-cbD"; */
+"IS5-Am-cbD.text" = "Daily necessities";
+
+/* Class = "UIButton"; normalTitle = "日曆"; ObjectID = "J8X-oI-SQ2"; */
+"J8X-oI-SQ2.normalTitle" = "日曆";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "JCH-xO-lnN"; */
+"JCH-xO-lnN.text" = "0%";
+
+/* Class = "UILabel"; text = "今天超棒!"; ObjectID = "JJr-4j-j48"; */
+"JJr-4j-j48.text" = "今天超棒!";
+
+/* Class = "UIButton"; normalTitle = "存檔"; ObjectID = "KyL-Oi-KAm"; */
+"KyL-Oi-KAm.normalTitle" = "存檔";
+
+/* Class = "UILabel"; text = "寫下美好的一天："; ObjectID = "LRe-Xf-tUn"; */
+"LRe-Xf-tUn.text" = "寫下美好的一天：";
+
+/* Class = "UILabel"; text = "2018/6/27"; ObjectID = "LzG-nd-RH0"; */
+"LzG-nd-RH0.text" = "2018/6/27";
+
+/* Class = "UILabel"; text = "天氣"; ObjectID = "MOB-1h-RKH"; */
+"MOB-1h-RKH.text" = "天氣";
+
+/* Class = "UILabel"; text = "心情"; ObjectID = "NPN-SN-UoL"; */
+"NPN-SN-UoL.text" = "心情";
+
+/* Class = "UIButton"; normalTitle = "＜"; ObjectID = "NQ6-Sl-CxP"; */
+"NQ6-Sl-CxP.normalTitle" = "＜";
+
+/* Class = "UIButton"; normalTitle = "＋"; ObjectID = "Nob-Zw-5gQ"; */
+"Nob-Zw-5gQ.normalTitle" = "＋";
+
+/* Class = "UIButton"; normalTitle = "＜"; ObjectID = "OJO-i5-Xli"; */
+"OJO-i5-Xli.normalTitle" = "＜";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "Q9o-Yr-rCp"; */
+"Q9o-Yr-rCp.text" = "0%";
+
+/* Class = "UILabel"; text = "2018/06/27"; ObjectID = "TBL-yg-WRT"; */
+"TBL-yg-WRT.text" = "2018/06/27";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "TI7-ii-q2J"; */
+"TI7-ii-q2J.text" = "Month";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "ULH-Oy-iLm"; */
+"ULH-Oy-iLm.text" = "0%";
+
+/* Class = "UILabel"; text = "2018/06/27"; ObjectID = "UTT-uN-XyY"; */
+"UTT-uN-XyY.text" = "2018/06/27";
+
+/* Class = "UITextField"; placeholder = "用一句話形容今天吧！"; ObjectID = "Vjj-WY-AIM"; */
+"Vjj-WY-AIM.placeholder" = "用一句話形容今天吧！";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "W1w-uX-htE"; */
+"W1w-uX-htE.text" = "Mon";
+
+/* Class = "UIButton"; normalTitle = "記帳"; ObjectID = "X9h-l5-AG8"; */
+"X9h-l5-AG8.normalTitle" = "記帳";
+
+/* Class = "UILabel"; text = "電話"; ObjectID = "YAX-If-sWp"; */
+"YAX-If-sWp.text" = "電話";
+
+/* Class = "UIButton"; normalTitle = "＜"; ObjectID = "Z4B-fW-EQt"; */
+"Z4B-fW-EQt.normalTitle" = "＜";
+
+/* Class = "UILabel"; text = "通勤"; ObjectID = "cMi-OY-53q"; */
+"cMi-OY-53q.text" = "通勤";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dar-tM-3R2"; */
+"dar-tM-3R2.text" = "Label";
+
+/* Class = "UILabel"; text = "醫療"; ObjectID = "eJF-3z-DfX"; */
+"eJF-3z-DfX.text" = "醫療";
+
+/* Class = "UILabel"; text = "娛樂"; ObjectID = "exR-Y7-nHd"; */
+"exR-Y7-nHd.text" = "娛樂";
+
+/* Class = "UILabel"; text = "金額:"; ObjectID = "gT8-m5-wFJ"; */
+"gT8-m5-wFJ.text" = "金額:";
+
+/* Class = "UILabel"; text = "天氣"; ObjectID = "gXn-ZG-G72"; */
+"gXn-ZG-G72.text" = "天氣";
+
+/* Class = "UIButton"; normalTitle = "存檔"; ObjectID = "jBa-Fh-Vzo"; */
+"jBa-Fh-Vzo.normalTitle" = "存檔";
+
+/* Class = "UILabel"; text = "2018/06/27"; ObjectID = "l5M-kp-C2r"; */
+"l5M-kp-C2r.text" = "2018/06/27";
+
+/* Class = "UILabel"; text = "備註:"; ObjectID = "lJR-Vm-Qf6"; */
+"lJR-Vm-Qf6.text" = "備註:";
+
+/* Class = "UILabel"; text = "飲料"; ObjectID = "lzL-fD-9Oo"; */
+"lzL-fD-9Oo.text" = "飲料";
+
+/* Class = "UILabel"; text = "天氣"; ObjectID = "nIH-o0-gxO"; */
+"nIH-o0-gxO.text" = "天氣";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pHi-PM-3Mo"; */
+"pHi-PM-3Mo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "存檔"; ObjectID = "pc8-lm-89M"; */
+"pc8-lm-89M.normalTitle" = "存檔";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "q7s-KJ-HHQ"; */
+"q7s-KJ-HHQ.text" = "1000";
+
+/* Class = "UIButton"; normalTitle = "＜"; ObjectID = "rrQ-9h-LHL"; */
+"rrQ-9h-LHL.normalTitle" = "＜";
+
+/* Class = "UILabel"; text = "Tue"; ObjectID = "ten-hg-aMC"; */
+"ten-hg-aMC.text" = "Tue";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "uA3-Sw-BpT"; */
+"uA3-Sw-BpT.text" = "Sun";
+
+/* Class = "UILabel"; text = "美食"; ObjectID = "uuo-43-nfR"; */
+"uuo-43-nfR.text" = "美食";
+
+/* Class = "UILabel"; text = "備註:"; ObjectID = "uvo-dc-D5W"; */
+"uvo-dc-D5W.text" = "備註:";
+
+/* Class = "UITextField"; placeholder = "用一句話形容今天吧！"; ObjectID = "w89-aD-7j9"; */
+"w89-aD-7j9.placeholder" = "用一句話形容今天吧！";
+
+/* Class = "UIButton"; normalTitle = "＜"; ObjectID = "wz8-MA-QQT"; */
+"wz8-MA-QQT.normalTitle" = "＜";
+
+/* Class = "UILabel"; text = "寫下美好的一天："; ObjectID = "x8J-fb-ZDE"; */
+"x8J-fb-ZDE.text" = "寫下美好的一天：";
+
+/* Class = "UILabel"; text = "用途:"; ObjectID = "ziq-Ad-tAg"; */
+"ziq-Ad-tAg.text" = "用途:";
+
+/* Class = "UILabel"; text = "year"; ObjectID = "zvB-Yf-m7f"; */
+"zvB-Yf-m7f.text" = "year";
