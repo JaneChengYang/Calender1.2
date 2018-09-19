@@ -10,6 +10,7 @@ import UIKit
 
 class Cell: UICollectionViewCell {
 
+    @IBOutlet weak var myImage: UIImageView!
     @IBOutlet weak var widthConstraint: NSLayoutConstraint!
     @IBOutlet weak var contentLabel: UILabel!
     @IBOutlet weak var timeLabel: UILabel!
@@ -24,10 +25,10 @@ class Cell: UICollectionViewCell {
     */
     override func awakeFromNib() {
         super.awakeFromNib()
-        self.myView.translatesAutoresizingMaskIntoConstraints = false
-        let screenWidth = UIScreen.main.bounds.size.width
-        widthConstraint.constant = screenWidth - (2 * 12)
-        
+//        self.myView.translatesAutoresizingMaskIntoConstraints = false
+//        let screenWidth = UIScreen.main.bounds.size.width
+//        widthConstraint.constant = screenWidth - (2 * 12)
+//        
     }
 
 }

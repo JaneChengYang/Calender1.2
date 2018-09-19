@@ -80,7 +80,6 @@ class ShareViewController: UIViewController {
                     }
                 }
             }
-
         }
     }
     @IBOutlet weak var nButton: UIButton!
