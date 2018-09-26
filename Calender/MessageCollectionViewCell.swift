@@ -12,6 +12,6 @@ class MessageCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var massageLabel: UILabel!
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var timeLabel: UILabel!
-    
+    var ii = 0
 
 }
