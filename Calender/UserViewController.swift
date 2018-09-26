@@ -29,6 +29,7 @@ class UserViewController: UIViewController {
     var date = Date()
     @IBAction func CanaelButton(_ sender: UIButton) {
         dismiss(animated: true, completion: nil)
+        
     }
     //交換
     @IBAction func exchangeButton(_ sender: UIButton) {
