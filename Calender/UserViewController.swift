@@ -17,7 +17,7 @@ import GoogleSignIn
 
 
 class UserViewController: UIViewController {
-    
+    let a = 1
     var diary = [DiaryUser]()
     var myImageURL = [[String:Any]]()
     @IBOutlet weak var uidLabel: UILabel!
